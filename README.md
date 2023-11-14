@@ -1,7 +1,7 @@
-# Hello World, I'm Felps, be very welcome!
+# Hello World, I'm Wilton, be very welcome!
 
 <table>
-  <a href="https://github.com/WFelpsMendes">
+  <a href="https://github.com/wiltonfmendes">
 
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
